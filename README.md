@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriel 👋
 ### Desenvolvedor | Estudante de Cibersegurança
-Formado em Análise e Desenvolvimento de Sistemas e cursando MBA de Cibersegurança na USP. Amante da curiosidade e da loucura.
+Formado em Análise e Desenvolvimento de Sistemas e cursando MBA de Cibersegurança na USP e especialização em Gestão de Projetos. Amante da curiosidade e da loucura.
 
 ## Skills
 ### :wrench: Tools and environments
