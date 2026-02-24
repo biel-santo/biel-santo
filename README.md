@@ -17,8 +17,10 @@ Formado em Análise e Desenvolvimento de Sistemas e cursando MBA de Ciberseguran
 
 ### :computer: Back-End Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![dotnet](https://img.shields.io/badge/.net-5632D5?style=for-the-badge&logo=dotnet&logoColor=white)
 ![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
+![supabase](https://img.shields.io/badge/Supabase-7ee787?style=for-the-badge&logo=Supabase&logoColor=white)
+<!--https://github.com/simple-icons/simple-icons/blob/master/slugs.md-->
 
 
 ### Social
