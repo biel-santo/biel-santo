@@ -8,6 +8,10 @@ Formado em Análise e Desenvolvimento de Sistemas e cursando MBA de Ciberseguran
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-5350FC.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-EB7A08.svg?style=for-the-badge&logo=blender&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white)
+
 
 ### :computer: Front-End Development
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
